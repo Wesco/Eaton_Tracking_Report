@@ -82,7 +82,7 @@ Sub ReOrderCols()
                     "Sales Document", _
                     "Material Number", _
                     "Freight Carrier text", _
-                    "Trackign / PRO number", _
+                    "Tracking / PRO number", _
                     "Date Shipped", _
                     "Ordered", _
                     "Invoice Number")
